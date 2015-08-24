@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PopMovieStage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="service_base_url">http://api.themoviedb.org/3/discover/movie</string>
+    <string name="api_key"></string>
+    <string name="image_base_url"> http://image.tmdb.org/t/p/</string>
+
+    <string name="relDateLabel">Release Date:</string>
+    <string name="voteAvgLabel">Average Vote:</string>
+
+    <string-array name="posterSizeOpts">
+        <item>w92</item>
+        <item>w154</item>
+        <item>w185</item>
+        <item>w342</item>
+        <item>w500</item>
+        <item>w780</item>
+        <item>original</item>
+    </string-array>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+</resources>
